@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Paul Ijagbemi
+permalink: /Paul the awesome/
 ---
 
 Some information about you!
-
+I don't know anything about this guy
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Paul loves adventure but Paul doesn't know something
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Paul loves adventure but I don't know is better](paulijagbemi@seoulchristian.org)

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Paul Ijagbemi
-permalink: /Paul the awesome/
+title: About
+permalink: /about/
 ---
 
 Some information about you!
 I don't know anything about this guy
+
 ### More Information
 
 Paul loves adventure but Paul doesn't know something
